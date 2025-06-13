@@ -1,3 +1,4 @@
+[View the Streamlit App](https://coffee-sales.streamlit.app/)
 # Coffee Shop Sales EDA
 
 This project provides an exploratory data analysis (EDA) of sales transactions from a coffee shop chain. The analysis covers data cleaning, feature engineering, and a variety of visualizations to uncover trends in sales, product performance, and store comparisons.
@@ -22,15 +23,6 @@ The dataset contains detailed records of sales transactions, including:
 2. Open `app.ipynb` in Jupyter Notebook or VS Code.
 3. Run the cells to reproduce the analysis and visualizations.
 
-## Streamlit Dashboard
-You can interact with the Coffee Shop Sales dashboard online:
-
-[View the Streamlit App](https://coffee-sales.streamlit.app/)
-
-Or run locally with:
-```
-streamlit run app.py
-```
 
 ## Key Insights
 - Identifies top-performing stores and products
@@ -49,5 +41,3 @@ streamlit run app.py
 
 ---
 
-**Author:** [Your Name]
-**Date:** June 2025
