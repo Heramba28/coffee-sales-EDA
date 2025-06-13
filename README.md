@@ -22,6 +22,16 @@ The dataset contains detailed records of sales transactions, including:
 2. Open `app.ipynb` in Jupyter Notebook or VS Code.
 3. Run the cells to reproduce the analysis and visualizations.
 
+## Streamlit Dashboard
+You can interact with the Coffee Shop Sales dashboard online:
+
+[View the Streamlit App](https://coffee-sales.streamlit.app/)
+
+Or run locally with:
+```
+streamlit run app.py
+```
+
 ## Key Insights
 - Identifies top-performing stores and products
 - Reveals monthly and yearly sales trends
